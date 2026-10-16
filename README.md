@@ -1,12 +1,11 @@
-# 💫 Hi 👋, I'm Vedaant Mitra
-**A passionate Software Developer || Engineer**
+# 💫 Hi 👋, I'm Priyanshu Raj
+**A passionate Web Developer || IOT Engineer**
 
-Email Me 👉 ✉️ **vedaant04mitra@gmail.com.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **p.raj240804@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Some Tech Project
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:**  vedaant04mitra@gmail.com
-- 😄 **Pronouns:** Mitra Ji
+- 📫 **How to reach me:**  p.raj240804@gmail.com
 - ⚡ **Fun fact:** You Can Code But Can't Debug
 - <!-- Snake Game Repo View -->
 
